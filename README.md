@@ -9,7 +9,7 @@
 
 This repository serves as both my learning roadmap and portfolio hub. It tracks my progress through a 16-week data analytics curriculum designed for a career pivot into ecommerce analytics.
 
-**Live Site:** [https://yourusername.github.io](https://yourusername.github.io)
+**Live Site:** [https://kaylinmary.github.io](https://kaylinmary.github.io)
 
 ---
 
@@ -55,9 +55,9 @@ This repository serves as both my learning roadmap and portfolio hub. It tracks 
 
 ## Connect With Me
 
-- **LinkedIn:** [Your Profile Link]
-- **Tableau Public:** [Your Profile Link]
-- **GitHub:** [Your Profile Link]
+- **LinkedIn:** https://www.linkedin.com/in/kaylin-redmond/
+- **Tableau Public:** https://public.tableau.com/app/profile/kaylin.redmond/vizzes
+- **GitHub:** https://github.com/Kaylinmary
 
 ---
 
