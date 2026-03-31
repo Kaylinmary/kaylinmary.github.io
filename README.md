@@ -42,6 +42,7 @@ This repository serves as both my learning roadmap and portfolio hub. It tracks 
 - **Statistics** – A/B testing, hypothesis testing
 - **Python (pandas)** – Data manipulation (post-curriculum)
 - **Communication** – Case studies, stakeholder presentation
+- **Excel / Spreadsheets** – Pivot tables (grouping, filtering, calculated fields), VLOOKUP / XLOOKUP, INDEX-MATCH, Power Query (post-curriculum)
 
 ---
 
